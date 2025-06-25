@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👩🏻‍💻 **Wenjing (Jocelyn) Huang** (She/Her)  
+👩🏻‍💻 **Jocelyn Huang** (She/Her)  
 Data Scientist | MS in Applied Data Science @ USC Viterbi
 
 I am a data science enthusiast with a product mindset and a passion for real-world impact. My experience spans data labeling, SQL pipelines, LLM evaluation, and machine learning projects, where I enjoy building AI-driven tools that are both intelligent and user-friendly.
