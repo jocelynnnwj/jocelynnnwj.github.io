@@ -23,13 +23,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Wenjing (Jocelyn) Huang"
+  pronouns         : "she/her"
+  bio              : "Data Scientist | MS in Applied Data Science @ USC Viterbi. Data science enthusiast with a product mindset and a focus on real-world impact."
+  location         : "Los Angeles, CA (willing to relocate in the US)"
+  employer         : "University of Southern California"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hwenjing0114@gmail.com"
+  github           : # Add your GitHub username here if you want it public, or leave blank for now
+  linkedin         : "https://www.linkedin.com/in/jocelynnnwj/"
 
   # Academic websites
   academia         : # URL
@@ -46,7 +48,6 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,8 +61,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
