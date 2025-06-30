@@ -38,6 +38,12 @@ jobs:
         git add .
         git commit -m "Automated update of talk locations" || echo "No changes to commit"
 
+    - name: Fetch latest from remote
+      run: |
+        git fetch origin master
+        git checkout master
+        git pull origin master --rebase
+
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v5
       with:
