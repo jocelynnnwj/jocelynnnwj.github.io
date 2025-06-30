@@ -16,3 +16,9 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+
+Jocelyn Huang:
+  name: "Jocelyn Huang"
+  email: "hwenjing0114@gmail.com"
+  bio: "Data Scientist | MS in Applied Data Science @ USC Viterbi. Data science enthusiast with a product mindset and a focus on real-world impact."
+  avatar: "/images/profile.png"
