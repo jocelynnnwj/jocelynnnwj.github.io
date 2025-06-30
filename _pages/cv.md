@@ -2,10 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
-author: "Jocelyn Huang"
+author: "jocelynnwj"
 ---
 
 {% include base_path %}
