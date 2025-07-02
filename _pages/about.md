@@ -8,29 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in the Computer Science department at University of Southern California (USC) advised by <a href='https://viterbi-web.usc.edu/~liu32/'>Prof. Yan Liu</a>. My primary research interests encompass the development of deep learning applications on time series data. My current research focuses on **time series foundation model**. Previously, I obtained my Bachelor degree from University of Wisconsin - Madison in Computer Science, Data Science, and Statistics. During the time at Madison, I worked with <a href='https://datascience.wisc.edu/staff/gao-song/'> Prof. Song Gao</a> on research topics related to Geospatial Data Science. You can reach me at <a href="mailto:yewen@usc.edu">yewen@usc.edu</a>. 
+# About Me
 
+I am a Master of Science in Applied Data Science student at the University of Southern California (USC), where I focus on building scalable, data-driven solutions that combine machine learning, LLMs, and practical business impact. My interests lie in applied AI, recommendation systems, and computer vision.
 
+Previously, I earned my Bachelor of Science in Business Administration with a concentration in Business Analytics from the University of California, Riverside, graduating cum laude. I've contributed to various projects spanning LLM evaluation, image classification, and recommender system optimization, and have interned as a Data Scientist at companies like Fusion AI and M-Joys Tech.
+
+My work often sits at the intersection of structured and unstructured data—using tools like SQL, Python, PyTorch, and Spark—and I enjoy collaborating with cross-functional teams to bring insights to life.
+
+---
+
+**Wenjing (Jocelyn) Huang**  
+Master's Student in Applied Data Science  
+Los Angeles, California  
+✉️ [hwenjing0114@gmail.com](mailto:hwenjing0114@gmail.com)  
+🔗 [GitHub](https://github.com/jocelynnnwj) | [LinkedIn](https://www.linkedin.com/in/jocelynnnwj/)
+
+## Education
+<div style='display: flex; justify-content: space-between;'>
+    <p style='font-size:20px; margin-bottom:2px'><b>University of Southern California</b></p>
+    <i>Jan. 2024 - Dec. 2025 (Expected)</i>
+</div>
+Master of Science in Applied Data Science, Viterbi School of Engineering
+<ul>
+  <li>Relevant Courses: Deep Learning and Its Applications, Machine Learning for Data Science, Foundations of Data Mining, UX Design & Strategy</li>
+</ul>
+
+<div style='display: flex; justify-content: space-between;'>
+    <p style='font-size:20px; margin-bottom:2px'><b>University of California, Riverside</b></p>
+    <i>Jul. 2019 - Dec. 2022</i>
+</div>
+Bachelor of Science in Business Administration, Concentration in Business Analytics
+<ul>
+  <li>GPA: 3.76/4.0</li>
+  <li>Cum Laude | Dean's Honor List (5 Quarters)</li>
+</ul>
+
+## Skills
+- **Languages & Tools:** Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib, TensorFlow, PyTorch, Git, Jupyter, Tableau
+- **Frameworks & Platforms:** Spark, XGBoost, Django, Google Colab, MySQL
+- **Strengths:** LLM evaluation, machine learning development, data cleaning, model optimization, experiment design, cross-functional teamwork
 
 <!-- ## Research Interest: 
 * Time Series
 * Foundation Model
 * Diffusion
 * Spatial-Temporal -->
-
-## Education
-<div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin-bottom:2px'><b>University of Southern California</b></p>
-	<i>Aug. 2023 - Present</i>
-</div>
-Ph.D. in Computer Science
-
-<div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin-bottom:2px'><b>University of Wisconsin - Madison</b></p>
-	<i>Aug. 2019 - May 2023</i>
-</div>
-
-Bachelor of Science in Computer Science, Data Science, Statistics
 
 <!-- ## News -->
 
