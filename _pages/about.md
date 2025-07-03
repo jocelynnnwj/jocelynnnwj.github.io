@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am a Master of Science in Applied Data Science student at the University of Southern California (USC), where I focus on building scalable, data-driven solutions that combine machine learning, LLMs, and practical business impact. My interests lie in applied AI, recommendation systems, and computer vision.
 
 Previously, I earned my Bachelor of Science in Business Administration with a concentration in Business Analytics from the University of California, Riverside, graduating cum laude. I've contributed to various projects spanning LLM evaluation, image classification, and recommender system optimization, and have interned as a Data Scientist at companies like Fusion AI and M-Joys Tech.
