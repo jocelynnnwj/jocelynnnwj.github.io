@@ -27,11 +27,6 @@ Master of Science in Applied Data Science, Viterbi School of Engineering
 </div>
 Bachelor of Science in Business Administration, Concentration in Business Analytics
 
-## Skills
-- **Languages & Tools:** Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib, TensorFlow, PyTorch, Git, Jupyter, Tableau
-- **Frameworks & Platforms:** Spark, XGBoost, Django, Google Colab, MySQL
-- **Strengths:** LLM evaluation, machine learning development, data cleaning, model optimization, experiment design, cross-functional teamwork
-
 <!-- ## Research Interest: 
 * Time Series
 * Foundation Model

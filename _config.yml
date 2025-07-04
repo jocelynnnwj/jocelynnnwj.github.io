@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wenjing (Jocelyn) Huang"
+title                    : "Wenjing Huang"
 title_separator          : ""
 name                     : &name "Wenjing (Jocelyn) Huang"
 description              : &description "Master's Student in Applied Data Science at USC, interested in applied AI, recommendation systems, and computer vision."
@@ -89,7 +89,7 @@ author:
   location         : "Los Angeles, California"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=_HxPFowAAAAJ&hl=en&oi=ao"
+  googlescholar    :
   email            : "hwenjing0114@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,13 +99,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jocelynnnwj"
+  github           : "https://github.com/jocelynnnwj"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jocelynnnwj"
+  linkedin         : "https://www.linkedin.com/in/jocelynnnwj/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
