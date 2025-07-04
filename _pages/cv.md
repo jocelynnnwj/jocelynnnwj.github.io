@@ -72,7 +72,7 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 </ul>
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Plant Leaf Image Classification Using SAM and Vision Transformers - CSCI 566</b></p>
+	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/Plant-Leaf-Image-Classification" target="_blank" style="color:inherit;text-decoration:underline;">Plant Leaf Image Classification Using SAM and Vision Transformers - CSCI 566</a></b></p>
 	<i>Oct. 2024 to Dec. 2024</i>
 </div>
 <ul>
