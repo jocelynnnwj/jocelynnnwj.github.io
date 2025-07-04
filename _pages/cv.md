@@ -14,13 +14,19 @@ redirect_from:
 	<i>Jan. 2024 to Dec. 2025 (Expected)</i>
 </div>
 Master of Science in Applied Data Science, Viterbi School of Engineering
+<ul>
+  <li>Relevant Courses: Machine Learning for Data Science, Foundations and Applications of Data Mining, Deep Learning and Its Applications, Database Systems, User Experience Design and Strategy</li>
+</ul>
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px; margin-bottom:2px'><b>University of California, Riverside</b></p>
 	<i>Jul. 2019 to Dec. 2022</i>
 </div>
-Bachelor of Science in Business Administration, Concentration in Business Analytics | GPA: 3.76/4.0
-Cum Laude | Dean's Honor List for 5 Quarters
+Bachelor of Science in Business Administration, Concentration in Business Analytics
+<ul>
+  <li>GPA: 3.76/4.0; Cum Laude; Dean's Honor List for 5 Quarters</li>
+  <li>Relevant Courses: Business Analytics, Decision Analysis & Management Science, Spreadsheet Modeling for Decision-making, Simulation for Business, Applied Linear Algebra, Introduction to Computing</li>
+</ul>
 
 ## Work Experience
 
@@ -52,7 +58,7 @@ Cum Laude | Dean's Honor List for 5 Quarters
 ## Academic Projects and Research
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Yelp Recommendation System Optimization - DSCI 553</b> <a href="https://github.com/jocelynnnwj/yelp-recommendation-optimization" target="_blank">[GitHub]</a></p>
+	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/yelp-recommendation-optimization" target="_blank" style="color:inherit;text-decoration:underline;">Yelp Recommendation System Optimization - DSCI 553</a></b></p>
 	<i>Mar. 2025 to May. 2025</i>
 </div>
 <ul>
@@ -72,17 +78,17 @@ Cum Laude | Dean's Honor List for 5 Quarters
 </ul>
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Spotify Hit Predictor — DSCI 550</b> <a href="https://github.com/jocelynnnwj/SpotifyHitPredictor" target="_blank">[GitHub]</a></p>
-	<i>Mar. 2024 to May. 2024</i>
+	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/SpotifyHitPredictor" target="_blank" style="color:inherit;text-decoration:underline;">Spotify Hit Predictor – DSCI 550</a></b></p>
+	<i>Apr. 2024 to May. 2024</i>
 </div>
 <ul>
-  <li>Built regression and classification models using Python (Pandas, Scikit-learn) to predict Spotify song popularity based on audio features from a 30,000-track dataset.</li>
-  <li>Applied data preprocessing, EDA, and feature selection (Forward Selection, SelectKBest); achieved 92.5% classification accuracy with Random Forest for predicting hit songs.</li>
-  <li>Delivered actionable insights for artists and marketers by identifying high-impact audio attributes linked to popular tracks.</li>
+  <li>Built <b>regression</b> and <b>classification</b> models using <b>Python (Pandas, Scikit-learn)</b> to predict Spotify song popularity based on a 30,000-track dataset.</li>
+  <li>Applied <b>feature selection</b> (<b>Forward Selection, SelectKBest</b>) and trained models including <b>Random Forest</b> and <b>Logistic Regression</b>.</li>
+  <li>Achieved <b>92.5% accuracy</b> and <b>73.2% F1-score</b> in classifying hit songs (popularity ≥67), helping artists make <b>data-informed decisions</b>.</li>
 </ul>
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Job Management Blog Database Management System - DSCI 551</b> <a href="https://github.com/jocelynnnwj/job-database-system" target="_blank">[GitHub]</a></p>
+	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/job-database-system" target="_blank" style="color:inherit;text-decoration:underline;">Job Management Blog Database Management System - DSCI 551</a></b></p>
 	<i>Feb. 2024 to May. 2024</i>
 </div>
 <ul>
