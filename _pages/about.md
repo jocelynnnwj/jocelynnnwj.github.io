@@ -19,8 +19,7 @@ My work often sits at the intersection of structured and unstructured data—usi
 **Wenjing (Jocelyn) Huang**  
 Master's Student in Applied Data Science  
 Los Angeles, California  
-✉️ [hwenjing0114@gmail.com](mailto:hwenjing0114@gmail.com)  
-🔗 [GitHub](https://github.com/jocelynnnwj) | [LinkedIn](https://www.linkedin.com/in/jocelynnnwj/)
+✉️ [Email](mailto:hwenjing0114@gmail.com) | 🔗 [GitHub](https://github.com/jocelynnnwj) | [LinkedIn](https://www.linkedin.com/in/jocelynnnwj/)
 
 ## Education
 <div style='display: flex; justify-content: space-between;'>
@@ -28,9 +27,6 @@ Los Angeles, California
     <i>Jan. 2024 - Dec. 2025 (Expected)</i>
 </div>
 Master of Science in Applied Data Science, Viterbi School of Engineering
-<ul>
-  <li>Relevant Courses: Deep Learning and Its Applications, Machine Learning for Data Science, Foundations of Data Mining, UX Design & Strategy</li>
-</ul>
 
 <div style='display: flex; justify-content: space-between;'>
     <p style='font-size:20px; margin-bottom:2px'><b>University of California, Riverside</b></p>
