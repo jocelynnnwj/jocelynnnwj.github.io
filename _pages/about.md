@@ -8,18 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master of Science in Applied Data Science student at the University of Southern California (USC), where I focus on building scalable, data-driven solutions that combine machine learning, LLMs, and practical business impact. My interests lie in applied AI, recommendation systems, and computer vision.
+I’m currently pursuing a Master of Science in Applied Data Science at the University of Southern California (USC), where I focus on building data-driven solutions with real-world impact. I’m passionate about leveraging data science to solve meaningful problems and aim to work in roles that combine machine learning, analytics, and product thinking.
 
-Previously, I earned my Bachelor of Science in Business Administration with a concentration in Business Analytics from the University of California, Riverside, graduating cum laude. I've contributed to various projects spanning LLM evaluation, image classification, and recommender system optimization, and have interned as a Data Scientist at companies like Fusion AI and M-Joys Tech.
-
-My work often sits at the intersection of structured and unstructured data—using tools like SQL, Python, PyTorch, and Spark—and I enjoy collaborating with cross-functional teams to bring insights to life.
+I’ve contributed to projects involving LLM evaluation, image classification, and recommender systems, and have interned as a Data Scientist at companies like Fusion AI and M-Joys Tech. I’m now actively seeking opportunities where I can apply my skills in Python, SQL, and machine learning to drive insights and build user-centered, intelligent solutions.
 
 ---
-
-**Wenjing (Jocelyn) Huang**  
-Master's Student in Applied Data Science  
-Los Angeles, California  
-✉️ [Email](mailto:hwenjing0114@gmail.com) | 🔗 [GitHub](https://github.com/jocelynnnwj) | [LinkedIn](https://www.linkedin.com/in/jocelynnnwj/)
 
 ## Education
 <div style='display: flex; justify-content: space-between;'>
@@ -33,10 +26,6 @@ Master of Science in Applied Data Science, Viterbi School of Engineering
     <i>Jul. 2019 - Dec. 2022</i>
 </div>
 Bachelor of Science in Business Administration, Concentration in Business Analytics
-<ul>
-  <li>GPA: 3.76/4.0</li>
-  <li>Cum Laude | Dean's Honor List (5 Quarters)</li>
-</ul>
 
 ## Skills
 - **Languages & Tools:** Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib, TensorFlow, PyTorch, Git, Jupyter, Tableau
