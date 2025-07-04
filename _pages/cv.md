@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Wen (Wendy) Ye"
+title: "Wenjing(Jocelyn) Huang"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -52,7 +52,7 @@ Cum Laude | Dean's Honor List for 5 Quarters
 ## Academic Projects and Research
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Yelp Recommendation System Optimization - DSCI 553</b></p>
+	<p style='font-size:20px; margin:0px'><b>Yelp Recommendation System Optimization - DSCI 553</b> <a href="https://github.com/jocelynnnwj/yelp-recommendation-optimization" target="_blank">[GitHub]</a></p>
 	<i>Mar. 2025 to May. 2025</i>
 </div>
 <ul>
@@ -72,7 +72,17 @@ Cum Laude | Dean's Honor List for 5 Quarters
 </ul>
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Job Management Blog Database Management System - DSCI 551</b></p>
+	<p style='font-size:20px; margin:0px'><b>Spotify Hit Predictor — DSCI 550</b> <a href="https://github.com/jocelynnnwj/SpotifyHitPredictor" target="_blank">[GitHub]</a></p>
+	<i>Mar. 2024 to May. 2024</i>
+</div>
+<ul>
+  <li>Built regression and classification models using Python (Pandas, Scikit-learn) to predict Spotify song popularity based on audio features from a 30,000-track dataset.</li>
+  <li>Applied data preprocessing, EDA, and feature selection (Forward Selection, SelectKBest); achieved 92.5% classification accuracy with Random Forest for predicting hit songs.</li>
+  <li>Delivered actionable insights for artists and marketers by identifying high-impact audio attributes linked to popular tracks.</li>
+</ul>
+
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px; margin:0px'><b>Job Management Blog Database Management System - DSCI 551</b> <a href="https://github.com/jocelynnnwj/job-database-system" target="_blank">[GitHub]</a></p>
 	<i>Feb. 2024 to May. 2024</i>
 </div>
 <ul>
@@ -92,34 +102,7 @@ Cum Laude | Dean's Honor List for 5 Quarters
   <li>Delivered insights into crypto-ETF relationships via <b>regression and correlation analysis</b>, identifying 0.72 Pearson correlation between BTC and ARK Innovation ETF.</li>
 </ul>
 
-## Publication
-* [**Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution**](https://arxiv.org/abs/2410.04047)
-	**Wen Ye\***, Yizhou Zhang\*, Wei Yang\*, Defu Cao, Lumingyuan Tang, Yan Liu. \\
-	*ArXiv Preprint*
-* [**GeoAI-enhanced community detection on spatial networks with graph deep learning**](https://arxiv.org/pdf/2411.15428)
-	Yunlei Liang, Jiawei Zhu, **Wen Ye**, Song Gao \\
-	*Computers, Environment and Urban Systems*
-* [**Timedit: General-purpose diffusion transformers for time series foundation model**](https://arxiv.org/abs/2409.02322)
-	Defu Cao\*,**Wen Ye\***, Yizhou Zhang, Yan Liu. \\
-	*ArXiv Preprint* \\
-	*ICML 2024 Foundation Model in the Wild Workshop*
-* [**TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting**](https://arxiv.org/abs/2310.04948)
-	Defu Cao, Furong Jia, Sercan O Arik, Tomas Pfister, Yixiang Zheng, **Wen Ye**, Yan Liu. \\
-	*The Twelfth International Conference on Learning Representations (ICLR 2024)*
-* [**Region2vec: Community detection on spatial networks using graph embedding with node attributes and spatial interactions**](https://dl.acm.org/doi/abs/10.1145/3557915.3560974). 
-	Yunlei Liang, Jiawei Zhu, **Wen Ye**, Song Gao. \\
-	*Proceedings of the 30th International Conference on Advances in Geographic Information Systems*
-* [**Understanding the spatiotemporal heterogeneities in the associations between COVID-19 infections and both human mobility and close contacts in the United States**](https://dl.acm.org/doi/abs/10.1145/3557995.3566117)
-	**Wen Ye**, Song Gao. \\
-	*Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Spatial Computing for Epidemiology*
-
-## Awards
-- USC Annenberg Fellowship 2023
-- Student Research Paper Competition (SRC) Second Place at ACM SIGSPATIAL 2022
-- Best Paper Award from ACM SIGSPATIAL Spatial Epidemiology Workshop 2022
-- Hilldale Undergraduate/Faculty Research Fellowship (2022-2023): Understanding spatial inequality to healthcare access in Wisconsin through deep learning-based network analysis
-- MinneAnalytics Scholarship 2021
-
-## Teaching
-- Teaching Assisstant for USC CSCI 566 Deep Learning and Its Applications, Fall 2024.
-- Undergraduate Teaching Assistant fr UW-Madison CS 320 Data Science Programming II Fall 2020, Spring 2021. 
+## Skills
+- **Languages & Tools:** Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib, TensorFlow, PyTorch, Git, Jupyter, Tableau
+- **Frameworks & Platforms:** Spark, XGBoost, Django, Google Colab, MySQL
+- **Strengths:** LLM evaluation, machine learning development, data cleaning, model optimization, experiment design, cross-functional teamwork
