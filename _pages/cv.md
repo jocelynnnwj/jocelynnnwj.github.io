@@ -10,23 +10,87 @@ redirect_from:
 
 ## Education
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin-bottom:5px'><b>University of Southern California</b></p>
-	<i>Aug. 2023 - Present</i>
+	<p style='font-size:20px; margin-bottom:2px'><b>University of Southern California</b></p>
+	<i>Jan. 2024 to Dec. 2025 (Expected)</i>
 </div>
-
-<div>
-	<p style='margin:0px'>Ph.D. in Computer Science</p>
-</div>
-
+Master of Science in Applied Data Science, Viterbi School of Engineering
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin-bottom:5px'><b>University of Wisconsin - Madison</b></p>
-	<i>Aug 2019 – May 2023</i>
+	<p style='font-size:20px; margin-bottom:2px'><b>University of California, Riverside</b></p>
+	<i>Jul. 2019 to Dec. 2022</i>
 </div>
+Bachelor of Science in Business Administration, Concentration in Business Analytics | GPA: 3.76/4.0
+Cum Laude | Dean's Honor List for 5 Quarters
 
-<div>
-	<p style='margin:0px'>Bachelor of Science in Computer Science, Data Science, Statistics</p>
+## Work Experience
+
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px; margin:0px'><b>Fusion AI - Data Scientist Intern, AI Innovation Team</b></p>
+	<i>Glen Allen, VA (Remote)</i>
 </div>
+<i>Jun. 2025 to Aug. 2025</i>
+<em>End-to-End Machine Learning & LLM Development for Business Solutions</em>
+<ul>
+  <li>Developed and deployed <b>ML/DL models</b> to address real-world business problems, leveraging both structured and unstructured data (<b>text, images, user logs</b>).</li>
+  <li>Conducted <b>A/B testing</b> and statistical validation to evaluate model performance, identifying optimization opportunities and improving business KPIs.</li>
+  <li><b>Fine-tuned LLMs</b> and foundation models for specific downstream tasks, collaborating cross-functionally with PMs, engineers, and designers to translate business needs into data-driven solutions.</li>
+  <li>Performed <b>LLM fine-tuning</b> for downstream tasks; collaborated with PMs, engineers, and designers for business-driven solutions.</li>
+</ul>
+
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px; margin:0px'><b>M-Joys Tech - Data Analyst / AI Intern</b></p>
+	<i>Hangzhou, Zhejiang, China</i>
+</div>
+<i>Jun. 2024 to Aug. 2024</i>
+<em>Prompt Engineering & LLM Refinement with Validated Data Pipelines</em>
+<ul>
+  <li>Improved model evaluation by generating 30,000+ labeled AI voice interaction records for <b>LLM evaluation</b> and response validity.</li>
+  <li>Conducted <b>data cleaning</b> with SQL and Python (<b>Pandas, Regex</b>) to achieve 97%+ data consistency; validated data via schema checks and null audits.</li>
+  <li>Analyzed response failures and improved classification accuracy by 20% through <b>prompt engineering</b> and <b>LLM fine-tuning</b> using PyCharm.</li>
+</ul>
+
+## Academic Projects and Research
+
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px; margin:0px'><b>Yelp Recommendation System Optimization - DSCI 553</b></p>
+	<i>Mar. 2025 to May. 2025</i>
+</div>
+<ul>
+  <li>Built a hybrid recommender system using <b>Spark RDD, Python, and XGBoost</b> to process 100,000+ user-business review records.</li>
+  <li>Improved prediction accuracy (RMSE=0.978) by applying <b>cross features</b> and feature engineering on user activity, popularity, and time-based interactions.</li>
+  <li>Designed a scalable batch pipeline for <b>regression modeling</b>, optimizing runtime under limited memory constraints.</li>
+</ul>
+
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px; margin:0px'><b>Plant Leaf Image Classification Using SAM and Vision Transformers - CSCI 566</b></p>
+	<i>Oct. 2024 to Dec. 2024</i>
+</div>
+<ul>
+  <li>Fine-tuned <b>ViT</b> and ResNet50 models on 20,000+ segmented images using <b>Segment Anything Model (SAM)</b> to improve plant disease classification.</li>
+  <li>Applied <b>data augmentation</b> (Gaussian blur, rotation) to enhance robustness across 15 categories; achieved 99.95% (ViT) and 99.81% (ResNet50) <b>top-1 accuracy</b>.</li>
+  <li>Validated model generalization with <b>ROC-AUC, precision, recall, F1-score</b>, maintaining ≥0.99 under 10% noise levels.</li>
+</ul>
+
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px; margin:0px'><b>Job Management Blog Database Management System - DSCI 551</b></p>
+	<i>Feb. 2024 to May. 2024</i>
+</div>
+<ul>
+  <li>Built an end-to-end <b>data pipeline</b> to scrape 800+ LinkedIn job listings using <b>Python, Selenium</b>, and store into <b>MySQL</b> with optimized schema design.</li>
+  <li>Improved query speed (~0.2s/query) and automated ingestion for downstream analysis.</li>
+  <li>Developed a full-stack job board system with <b>Django MVC</b>, boosting server response efficiency by 40% and maintaining >95% UI stability.</li>
+</ul>
+
+<div style='display: flex; justify-content: space-between;'>
+	<p style='font-size:20px; margin:0px'><b>Cryptocurrency Project - UCR School of Business, Research Assistant</b></p>
+	<i>Mar. 2021 to Dec. 2021</i>
+</div>
+<em>Crypto Market Analytics & Data Engineering</em>
+<ul>
+  <li>Summarized 40+ peer-reviewed papers on <b>blockchain and digital asset markets</b> to build cross-asset financial models.</li>
+  <li>Processed and cleaned 20,000+ Yahoo Finance entries using <b>Python (Pandas, Matplotlib)</b>, achieving 95%+ data integrity.</li>
+  <li>Delivered insights into crypto-ETF relationships via <b>regression and correlation analysis</b>, identifying 0.72 Pearson correlation between BTC and ARK Innovation ETF.</li>
+</ul>
 
 ## Publication
 * [**Beyond Forecasting: Compositional Time Series Reasoning for End-to-End Task Execution**](https://arxiv.org/abs/2410.04047)
@@ -59,50 +123,3 @@ redirect_from:
 ## Teaching
 - Teaching Assisstant for USC CSCI 566 Deep Learning and Its Applications, Fall 2024.
 - Undergraduate Teaching Assistant fr UW-Madison CS 320 Data Science Programming II Fall 2020, Spring 2021. 
-
-## Work Experiences
-
-<div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Arity</b></p>
-	<i>May 2023 -- Aug. 2023</i>
-</div>
-<div style='display:flex; justify-content:space-between;'>
-<p style='margin:0px'>Data Science Intern</p>
-<i>Chicago, IL</i>
-</div>
-
-* Modified the Non-Maximum Suppression Algorithm to update boundaries of regional tiles to prevent overlap which makes the downstream task of scoring trips within regions easier
-* Investigated the data quality issue regarding trip duplication and created a scrip to flag trips that are duplicate by trip id (duplicate trips by collection) or by geolocation-trail and timestamp (semantically duplicate trips)
-
-<div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Arity</b></p>
-	<i>May 2022 -- Aug. 2022</i>
-</div>
-<div style='display:flex; justify-content:space-between;'>
-<p style='margin:0px'>Data Science Intern</p>
-<i>Chicago, IL</i>
-</div>
-
-* Set up a data pipeline and built enriched trip dataset with urban/rural features using Sedona and Spark
-* Designed and implemented an algorithm to detect user relocation by examining their trips, determining change in dwelling locations, and peaks in their traveling distances
-
-
-<!-- ## Research Projects
-
-<div style='display:flex; justify-content: space-between;'>
-	<a href='https://melady.usc.edu/' style='font-size:20px; margin:0px'><b>Melady Lab</b></a>
-	<i>May 2023 -- Present</i>
-</div>
-<div style='display:flex; justify-content:space-between; margin:0px'>
-<p style='margin:0px'>Ph.D. Student</p>
-<p style='margin:0px'>advisor: <i><a href='https://viterbi-web.usc.edu/~liu32/'>Prof. Yan Liu</a></i></p>
-</div>
-
-<h3 style='margin:10px 0px'> Synthetic Trajectory Generation </h3>
-* Leveraged diffusion model to generate synthetic trajectories
-* Designed a hierarchical framework for two-stage synthetic trajectory generation including milestones and segments
-
-<h3 style='margin:10px 0px'> Foundation Model for Time Series Modelling </h3>
-* Leveraged large language model for time series forecasting
-* Implemented patch tokenization of time series as well as patch mixing, contrastive learning
-* Experimented with pretraining strategies for masking time series -->
