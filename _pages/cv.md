@@ -95,9 +95,29 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
   <li>Developed a full-stack job board system with <b>Django MVC</b>, boosting server response efficiency by 40% and maintaining >95% UI stability.</li>
 </ul>
 
+## Other Experiences & Interests
+
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Cryptocurrency Project - UCR School of Business, Research Assistant</b></p>
-	<i>Mar. 2021 to Dec. 2021</i>
+    <p style='font-size:20px; margin:0px'><b><a href="https://www.figma.com/design/G5bQCJsnY5YlL0GuIPmWkF/AutoGrader-AI?node-id=4100-150&p=f&t=FFrzXQmYhR98RUVj-0" target="_blank" style="color:inherit;text-decoration:underline;">AutoGrader AI – DSCI 556</a> <a href="https://drive.google.com/file/d/1s2CP5ljvnaBvx60C4rUk6N3-CDv6OKXW/view" target="_blank"><b>[presentation]</b></a></b></p>
+    <i>Feb 2025 – May 2025</i>
+</div>
+<ul>
+  <li>Conducted <b>user research</b> with 30+ students and TAs to identify pain points in grading and feedback workflows.</li>
+  <li>Designed a <b>high-fidelity Figma prototype</b> for an <b>AI-powered grading platform</b>, improving clarity and efficiency in the grading process.</li>
+</ul>
+
+<div style='display: flex; justify-content: space-between;'>
+    <p style='font-size:20px; margin:0px'><b>M-Theory Consulting Group, Los Angeles, CA</b></p>
+    <span><i>Accounting Assistant | May 2023 – Dec. 2023</i></span>
+</div>
+<ul>
+  <li>Automated <b>invoice tracking</b> and <b>financial reporting</b> using <b>Excel formulas, pivot tables, and QuickBooks</b>, managing thousands of transactions and improving reconciliation efficiency.</li>
+  <li>Collaborated with cross-functional teams to streamline <b>financial workflows</b> and improve <b>data accuracy</b> across accounts payable and reporting processes.</li>
+</ul>
+
+<div style='display: flex; justify-content: space-between;'>
+    <p style='font-size:20px; margin:0px'><b>Cryptocurrency Project - UCR School of Business, Research Assistant</b></p>
+    <i>Mar. 2021 to Dec. 2021</i>
 </div>
 <em>Crypto Market Analytics & Data Engineering</em>
 <ul>
