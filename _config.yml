@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenjing (Jocelyn) Huang"
+  name             : "Wenjing Huang"
   avatar           : "profile.jpg"
   bio              : "Master's Student in Applied Data Science at USC. Focused on scalable, data-driven solutions combining ML, LLMs, and business impact."
   location         : "Los Angeles, California"
