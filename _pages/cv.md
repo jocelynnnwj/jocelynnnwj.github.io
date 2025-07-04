@@ -31,8 +31,11 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 ## Work Experience
 
 <div style='display: flex; justify-content: space-between;'>
-    <p style='font-size:20px; margin:0px'><b>Fusion AI - Data Scientist Intern, AI Innovation Team</b></p>
-    <span><i>Glen Allen, VA (Remote) | Jun. 2025 to Aug. 2025</i></span>
+  <p style='font-size:20px; margin:0px'><b>Fusion AI - Data Scientist Intern, AI Innovation Team</b></p>
+  <span><i>Glen Allen, VA (Remote)</i></span>
+</div>
+<div style='display: flex; justify-content: flex-end;'>
+  <span><i>Jun. 2025 to Aug. 2025</i></span>
 </div>
 <em>End-to-End Machine Learning & LLM Development for Business Solutions</em>
 <ul>
@@ -43,8 +46,11 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 </ul>
 
 <div style='display: flex; justify-content: space-between;'>
-    <p style='font-size:20px; margin:0px'><b>M-Joys Tech - Data Analyst / AI Intern</b></p>
-    <span><i>Hangzhou, Zhejiang, China | Jun. 2024 to Aug. 2024</i></span>
+  <p style='font-size:20px; margin:0px'><b>M-Joys Tech - Data Analyst / AI Intern</b></p>
+  <span><i>Hangzhou, Zhejiang, China</i></span>
+</div>
+<div style='display: flex; justify-content: flex-end;'>
+  <span><i>Jun. 2024 to Aug. 2024</i></span>
 </div>
 <em>Prompt Engineering & LLM Refinement with Validated Data Pipelines</em>
 <ul>
