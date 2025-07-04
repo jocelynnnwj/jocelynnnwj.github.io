@@ -31,10 +31,9 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 ## Work Experience
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>Fusion AI - Data Scientist Intern, AI Innovation Team</b></p>
-	<i>Glen Allen, VA (Remote)</i>
+    <p style='font-size:20px; margin:0px'><b>Fusion AI - Data Scientist Intern, AI Innovation Team</b></p>
+    <span><i>Glen Allen, VA (Remote) | Jun. 2025 to Aug. 2025</i></span>
 </div>
-<i>Jun. 2025 to Aug. 2025</i>
 <em>End-to-End Machine Learning & LLM Development for Business Solutions</em>
 <ul>
   <li>Developed and deployed <b>ML/DL models</b> to address real-world business problems, leveraging both structured and unstructured data (<b>text, images, user logs</b>).</li>
@@ -44,10 +43,9 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 </ul>
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b>M-Joys Tech - Data Analyst / AI Intern</b></p>
-	<i>Hangzhou, Zhejiang, China</i>
+    <p style='font-size:20px; margin:0px'><b>M-Joys Tech - Data Analyst / AI Intern</b></p>
+    <span><i>Hangzhou, Zhejiang, China | Jun. 2024 to Aug. 2024</i></span>
 </div>
-<i>Jun. 2024 to Aug. 2024</i>
 <em>Prompt Engineering & LLM Refinement with Validated Data Pipelines</em>
 <ul>
   <li>Improved model evaluation by generating 30,000+ labeled AI voice interaction records for <b>LLM evaluation</b> and response validity.</li>
