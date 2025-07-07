@@ -153,7 +153,7 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <b>Vlogger – Bilibili Channel</b><br>
+    <b>Vlogger – <a href="https://b23.tv/ItsyRZC" target="_blank">Bilibili Channel</a></b><br>
     <em>Content Creation & Digital Storytelling</em>
   </div>
   <div style="text-align: right;">
