@@ -111,7 +111,7 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 
 <div style='display: flex; justify-content: space-between;'>
     <p style='font-size:20px; margin:0px'><b><a href="https://www.figma.com/design/G5bQCJsnY5YlL0GuIPmWkF/AutoGrader-AI?node-id=4100-150&p=f&t=FFrzXQmYhR98RUVj-0" target="_blank" style="color:inherit;text-decoration:underline;">AutoGrader AI – DSCI 556</a> <a href="https://drive.google.com/file/d/1s2CP5ljvnaBvx60C4rUk6N3-CDv6OKXW/view" target="_blank"><b>[presentation]</b></a></b></p>
-    <i>Feb 2025 – May 2025</i>
+    <i>Feb 2025 to May 2025</i>
 </div>
 <ul>
   <li>Conducted <b>user research</b> with 30+ students and TAs to identify pain points in grading and feedback workflows.</li>
@@ -126,7 +126,7 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
   </div>
   <div style='text-align: right;'>
     <i>Los Angeles, CA</i><br>
-    <i>May 2023 – Dec. 2023</i>
+    <i>May 2023 to Dec. 2023</i>
   </div>
 </div>
 <ul>
@@ -142,7 +142,7 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
   </div>
   <div style='text-align: right;'>
     <i>Riverside, CA</i><br>
-    <i>Mar. 2021 – Dec. 2021</i>
+    <i>Mar. 2021 to Dec. 2021</i>
   </div>
 </div>
 <ul>
@@ -157,7 +157,7 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
     <em>Content Creation & Digital Storytelling</em>
   </div>
   <div style="text-align: right;">
-    <i>2020 – Present</i>
+    <i>2020 to Present</i>
   </div>
 </div>
 
