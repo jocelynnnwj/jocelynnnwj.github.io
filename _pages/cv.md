@@ -47,16 +47,18 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
   <li>Performed <b>LLM fine-tuning</b> for downstream tasks; collaborated with PMs, engineers, and designers for business-driven solutions.</li>
 </ul>
 
-<!-- Title + Location + Date in one line -->
+<!-- Title and right-aligned location + date -->
 <div style='display: flex; justify-content: space-between; align-items: baseline;'>
-  <p style='font-size:20px; margin:0px'><b>M-Joys Tech - Data Analyst / AI Intern</b></p>
-  <span style='text-align: right;'>
+  <div>
+    <p style='font-size:20px; margin:0px'><b>M-Joys Tech - Data Analyst / AI Intern</b></p>
+    <em>Prompt Engineering & LLM Refinement with Validated Data Pipelines</em>
+  </div>
+  <div style='text-align: right;'>
     <i>Hangzhou, Zhejiang, China</i><br>
     <i>Jun. 2024 to Aug. 2024</i>
-  </span>
+  </div>
 </div>
-<!-- Subtitle and bullet points -->
-<em>Prompt Engineering & LLM Refinement with Validated Data Pipelines</em>
+
 <ul>
   <li>Improved model evaluation by generating 30,000+ labeled AI voice interaction records for <b>LLM evaluation</b> and response validity.</li>
   <li>Conducted <b>data cleaning</b> with SQL and Python (<b>Pandas, Regex</b>) to achieve 97%+ data consistency; validated data via schema checks and null audits.</li>
@@ -105,7 +107,7 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
   <li>Developed a full-stack job board system with <b>Django MVC</b>, boosting server response efficiency by 40% and maintaining >95% UI stability.</li>
 </ul>
 
-## Other Experiences & Interests
+## Other Experiences with Passion
 
 <div style='display: flex; justify-content: space-between;'>
     <p style='font-size:20px; margin:0px'><b><a href="https://www.figma.com/design/G5bQCJsnY5YlL0GuIPmWkF/AutoGrader-AI?node-id=4100-150&p=f&t=FFrzXQmYhR98RUVj-0" target="_blank" style="color:inherit;text-decoration:underline;">AutoGrader AI – DSCI 556</a> <a href="https://drive.google.com/file/d/1s2CP5ljvnaBvx60C4rUk6N3-CDv6OKXW/view" target="_blank"><b>[presentation]</b></a></b></p>
@@ -116,25 +118,48 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
   <li>Designed a <b>high-fidelity Figma prototype</b> for an <b>AI-powered grading platform</b>, improving clarity and efficiency in the grading process.</li>
 </ul>
 
-<div style='display: flex; justify-content: space-between;'>
-    <p style='font-size:20px; margin:0px'><b>M-Theory Consulting Group, Los Angeles, CA</b></p>
-    <span><i>Accounting Assistant | May 2023 – Dec. 2023</i></span>
+<!-- M-Theory Consulting Group -->
+<div style='display: flex; justify-content: space-between; align-items: baseline;'>
+  <div>
+    <p style='font-size:20px; margin:0px'><b>M-Theory Consulting Group – Accounting Assistant</b></p>
+    <em>Streamlined financial processes and reporting accuracy</em>
+  </div>
+  <div style='text-align: right;'>
+    <i>Los Angeles, CA</i><br>
+    <i>May 2023 – Dec. 2023</i>
+  </div>
 </div>
 <ul>
   <li>Automated <b>invoice tracking</b> and <b>financial reporting</b> using <b>Excel formulas, pivot tables, and QuickBooks</b>, managing thousands of transactions and improving reconciliation efficiency.</li>
   <li>Collaborated with cross-functional teams to streamline <b>financial workflows</b> and improve <b>data accuracy</b> across accounts payable and reporting processes.</li>
 </ul>
 
-<div style='display: flex; justify-content: space-between;'>
-    <p style='font-size:20px; margin:0px'><b>Cryptocurrency Project - UCR School of Business, Research Assistant</b></p>
-    <i>Mar. 2021 to Dec. 2021</i>
+<!-- Cryptocurrency Project -->
+<div style='display: flex; justify-content: space-between; align-items: baseline;'>
+  <div>
+    <p style='font-size:20px; margin:0px'><b>Cryptocurrency Project – Research Assistant</b></p>
+    <em>Crypto Market Analytics & Data Engineering</em>
+  </div>
+  <div style='text-align: right;'>
+    <i>Riverside, CA</i><br>
+    <i>Mar. 2021 – Dec. 2021</i>
+  </div>
 </div>
-<em>Crypto Market Analytics & Data Engineering</em>
 <ul>
   <li>Summarized 40+ peer-reviewed papers on <b>blockchain and digital asset markets</b> to build cross-asset financial models.</li>
   <li>Processed and cleaned 20,000+ Yahoo Finance entries using <b>Python (Pandas, Matplotlib)</b>, achieving 95%+ data integrity.</li>
   <li>Delivered insights into crypto-ETF relationships via <b>regression and correlation analysis</b>, identifying 0.72 Pearson correlation between BTC and ARK Innovation ETF.</li>
 </ul>
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <b>Vlogger – Bilibili Channel</b><br>
+    <em>Content Creation & Digital Storytelling</em>
+  </div>
+  <div style="text-align: right;">
+    <i>2020 – Present</i>
+  </div>
+</div>
 
 ## Skills
 - **Languages & Tools:** Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib, TensorFlow, PyTorch, Git, Jupyter, Tableau
