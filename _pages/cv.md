@@ -34,10 +34,12 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
   <p style='font-size:20px; margin:0px'><b>Fusion AI - Data Scientist Intern, AI Innovation Team</b></p>
   <span><i>Glen Allen, VA (Remote)</i></span>
 </div>
-<div style='display: flex; justify-content: flex-end;'>
+
+<div style="display: flex; justify-content: space-between;">
+  <em>End-to-End Machine Learning & LLM Development for Business Solutions</em>
   <span><i>Jun. 2025 to Aug. 2025</i></span>
 </div>
-<em>End-to-End Machine Learning & LLM Development for Business Solutions</em>
+
 <ul>
   <li>Developed and deployed <b>ML/DL models</b> to address real-world business problems, leveraging both structured and unstructured data (<b>text, images, user logs</b>).</li>
   <li>Conducted <b>A/B testing</b> and statistical validation to evaluate model performance, identifying optimization opportunities and improving business KPIs.</li>
@@ -45,13 +47,15 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
   <li>Performed <b>LLM fine-tuning</b> for downstream tasks; collaborated with PMs, engineers, and designers for business-driven solutions.</li>
 </ul>
 
-<div style='display: flex; justify-content: space-between;'>
+<!-- Title + Location + Date in one line -->
+<div style='display: flex; justify-content: space-between; align-items: baseline;'>
   <p style='font-size:20px; margin:0px'><b>M-Joys Tech - Data Analyst / AI Intern</b></p>
-  <span><i>Hangzhou, Zhejiang, China</i></span>
+  <span style='text-align: right;'>
+    <i>Hangzhou, Zhejiang, China</i><br>
+    <i>Jun. 2024 to Aug. 2024</i>
+  </span>
 </div>
-<div style='display: flex; justify-content: flex-end;'>
-  <span><i>Jun. 2024 to Aug. 2024</i></span>
-</div>
+<!-- Subtitle and bullet points -->
 <em>Prompt Engineering & LLM Refinement with Validated Data Pipelines</em>
 <ul>
   <li>Improved model evaluation by generating 30,000+ labeled AI voice interaction records for <b>LLM evaluation</b> and response validity.</li>
