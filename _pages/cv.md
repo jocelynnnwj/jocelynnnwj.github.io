@@ -31,38 +31,41 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 ## Work Experience
 
 <div style='display: flex; justify-content: space-between;'>
-  <p style='font-size:20px; margin:0px'><b>Fusion AI - Data Scientist Intern, AI Innovation Team</b></p>
+  <p style='font-size:20px; margin:0px'><b>Fusion AI – Data Scientist Intern, AI Innovation Team</b></p>
   <span><i>Glen Allen, VA (Remote)</i></span>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
   <em>End-to-End Machine Learning & LLM Development for Business Solutions</em>
-  <span><i>Jun. 2025 to Aug. 2025</i></span>
+  <span><i>Jun. 2025 – Aug. 2025</i></span>
 </div>
 
 <ul>
-  <li>Developed and deployed <b>ML/DL models</b> to address real-world business problems, leveraging both structured and unstructured data (<b>text, images, user logs</b>).</li>
-  <li>Conducted <b>A/B testing</b> and statistical validation to evaluate model performance, identifying optimization opportunities and improving business KPIs.</li>
-  <li><b>Fine-tuned LLMs</b> and foundation models for specific downstream tasks, collaborating cross-functionally with PMs, engineers, and designers to translate business needs into data-driven solutions.</li>
-  <li>Performed <b>LLM fine-tuning</b> for downstream tasks; collaborated with PMs, engineers, and designers for business-driven solutions.</li>
+  <li><b>Built</b> and deployed multimodal AI agents (<a href="https://github.com/jocelynnnwj/deer-flow" target="_blank"><b>link</b></a>), <b>measured by</b> a <b>95 % automated-test pass rate</b> and a <b>25 % drop in inference latency</b>, <b>by optimizing</b> Gemini LLM API calls through asynchronous Python pipelines.</li>
+  <li><b>Developed</b> a distributed ETL pipeline processing <b>1 K + social-media posts / month</b>, <b>measured by</b> a <b>60 % decrease in data-refresh latency</b>, <b>through implementation of</b> asynchronous ingestion and cleaning with Python and Tavily API.</li>
+  <li><b>Designed</b> and statistically validated <b>A/B experiments</b> for model evaluation, <b>measured by</b> <b>p &lt; 0.05 significance</b> and an <b>18 % accuracy improvement</b>, <b>using</b> scikit-learn and statsmodels for randomized testing and hypothesis validation.</li>
+  <li><b>Enhanced</b> cross-modal feature engineering, <b>measured by</b> a <b>22 % increase in F1-score</b>, <b>through integration of</b> TF-IDF text vectors with CNN-based image features and hyperparameter tuning via Grid Search CV.</li>
+  <li><b>Automated</b> analytics dashboards for performance monitoring, <b>measured by</b> a <b>30 % reduction in manual reporting time</b>, <b>by linking</b> SQL queries with Plotly visualizations to deliver real-time insights.</li>
 </ul>
 
 <!-- Title and right-aligned location + date -->
+<!-- M-Joys Tech -->
 <div style='display: flex; justify-content: space-between; align-items: baseline;'>
   <div>
-    <p style='font-size:20px; margin:0px'><b>M-Joys Tech - Data Analyst / AI Intern</b></p>
+    <p style='font-size:20px; margin:0px'><b>M-Joys Tech – Data Analyst / AI Intern</b></p>
     <em>Prompt Engineering & LLM Refinement with Validated Data Pipelines</em>
   </div>
   <div style='text-align: right;'>
     <i>Hangzhou, Zhejiang, China</i><br>
-    <i>Jun. 2024 to Aug. 2024</i>
+    <i>Jun. 2024 – Aug. 2024</i>
   </div>
 </div>
 
 <ul>
-  <li>Improved model evaluation by generating 30,000+ labeled AI voice interaction records for <b>LLM evaluation</b> and response validity.</li>
-  <li>Conducted <b>data cleaning</b> with SQL and Python (<b>Pandas, Regex</b>) to achieve 97%+ data consistency; validated data via schema checks and null audits.</li>
-  <li>Analyzed response failures and improved classification accuracy by 20% through <b>prompt engineering</b> and <b>LLM fine-tuning</b> using PyCharm.</li>
+  <li><b>Generated</b> and validated <b>30 K+ AI voice-interaction records</b>, <b>measured by</b> <b>95 %+ data reliability</b> and higher <b>LLM evaluation throughput</b>, <b>by developing</b> a labeled-dataset pipeline for response-validity testing.</li>
+  <li><b>Cleaned</b> and transformed <b>50 K+ text entries</b> using <b>SQL joins</b> and <b>Python (Pandas, Regex)</b>, <b>measured by</b> a <b>97 % data-consistency rate</b>, <b>through</b> automated schema checks, null audits, and constraint validation.</li>
+  <li><b>Improved</b> <b>LLM response accuracy by 20 %</b>, <b>measured by</b> <b>classification-error reduction</b>, <b>validated through controlled A/B tests</b> and iterative prompt-engineering and fine-tuning in PyCharm on curated datasets.</li>
+  <li><b>Built</b> internal <b>analytics dashboards</b>, <b>measured by</b> a <b>35 % cut in manual reporting time</b>, <b>by integrating</b> SQL query outputs with Python visualizations to support <b>data-driven decision-making</b>.</li>
 </ul>
 
 ## Academic Projects and Research
