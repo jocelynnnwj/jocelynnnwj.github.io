@@ -87,36 +87,30 @@ author:
   avatar           : "profile.jpg"
   bio              : "Master's Student in Applied Data Science at USC. Focused on scalable, data-driven solutions combining ML, LLMs, and business impact."
   location         : "Los Angeles, California"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :
   email            : "hwenjing0114@gmail.com"
-  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "https://github.com/jocelynnnwj"
-  google_plus      :
-  keybase          :
+  github           : "jocelynnnwj"
+  linkedin         : "jocelynnnwj"
+  twitter          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jocelynnnwj/"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            :
+  googlescholar    :
+  researchgate     :
+  pubmed           :
+  impactstory      :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
+  stackoverflow    :
+  youtube          :
   weibo            :
   xing             :
-  youtube          :
+  steam            :
+  tumblr           :
+  facebook         :
+  codepen          :
+  dribbble         :
+  bitbucket        :
+  foursquare       :
+  vine             :
   wikipedia        :
 
 # Reading Files
