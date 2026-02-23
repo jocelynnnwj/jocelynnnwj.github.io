@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently pursuing a Master of Science in Applied Data Science at the University of Southern California (USC), where I focus on building data-driven solutions with real-world impact. I’m passionate about leveraging data science to solve meaningful problems and aim to work in roles that combine machine learning, analytics, and product thinking.
+I’m a Master’s student in Applied Data Science at USC with hands-on experience building end-to-end machine learning solutions across LLM evaluation, computer vision, and recommender systems. My work focuses on translating complex modeling problems into scalable, data-driven products with measurable business impact.
 
-I’ve contributed to projects involving LLM evaluation, image classification, and recommender systems, and have interned as a Data Scientist at companies like Fusion AI and M-Joys Tech. I’m now actively seeking opportunities where I can apply my skills in Python, SQL, and machine learning to drive insights and build user-centered, intelligent solutions.
+With a background in business analytics and industry experience at Fusion AI and M-Joys Tech, I’ve developed and optimized models using Python and SQL — from data preprocessing and feature engineering to experimentation and performance evaluation. I’m particularly interested in applied machine learning and product-oriented data science roles where I can combine quantitative rigor, experimentation, and business context to drive informed decision-making and user-centered outcomes.
 
 ---
 
 ## Education
 <div style='display: flex; justify-content: space-between;'>
     <p style='font-size:20px; margin-bottom:2px'><b>University of Southern California</b></p>
-    <i>Jan. 2024 - Dec. 2025 (Expected)</i>
+    <i>Jan. 2024 - Dec. 2025</i>
 </div>
 Master of Science in Applied Data Science, Viterbi School of Engineering
 
