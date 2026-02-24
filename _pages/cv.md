@@ -80,7 +80,7 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 </ul>
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/yelp-recommendation-optimization" target="_blank" style="color:inherit;text-decoration:underline;">Yelp Recommendation System Optimization - DSCI 553</a></b></p>
+	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/yelp-recommendation-optimization" target="_blank" style="color:inherit;text-decoration:underline;">Yelp Recommendation System Optimization</a></b></p>
 	<i>Mar. 2025 to May. 2025</i>
 </div>
 <ul>
@@ -90,7 +90,7 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 </ul>
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/Plant-Leaf-Image-Classification" target="_blank" style="color:inherit;text-decoration:underline;">Plant Leaf Image Classification Using SAM and Vision Transformers - CSCI 566</a></b></p>
+	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/Plant-Leaf-Image-Classification" target="_blank" style="color:inherit;text-decoration:underline;">Plant Leaf Image Classification Using SAM and Vision Transformers</a></b></p>
 	<i>Oct. 2024 to Dec. 2024</i>
 </div>
 <ul>
@@ -100,7 +100,7 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 </ul>
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/SpotifyHitPredictor" target="_blank" style="color:inherit;text-decoration:underline;">Spotify Hit Predictor – DSCI 550</a></b></p>
+	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/SpotifyHitPredictor" target="_blank" style="color:inherit;text-decoration:underline;">Spotify Hit Predictor</a></b></p>
 	<i>Apr. 2024 to May. 2024</i>
 </div>
 <ul>
@@ -110,7 +110,7 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 </ul>
 
 <div style='display: flex; justify-content: space-between;'>
-	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/job-database-system" target="_blank" style="color:inherit;text-decoration:underline;">Job Management Blog Database Management System - DSCI 551</a></b></p>
+	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/job-database-system" target="_blank" style="color:inherit;text-decoration:underline;">Job Management Blog Database Management System</a></b></p>
 	<i>Feb. 2024 to May. 2024</i>
 </div>
 <ul>
