@@ -11,7 +11,7 @@ redirect_from:
 ## Education
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px; margin-bottom:2px'><b>University of Southern California</b></p>
-	<i>Jan. 2024 to Dec. 2025 (Expected)</i>
+	<i>Jan. 2024 to Dec. 2025</i>
 </div>
 Master of Science in Applied Data Science, Viterbi School of Engineering
 <ul>
@@ -69,6 +69,15 @@ Bachelor of Science in Business Administration, Concentration in Business Analyt
 </ul>
 
 ## Academic Projects and Research
+<div style='display: flex; justify-content: space-between;'>
+  <p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/TikTok_Trends_Analysis" target="_blank" style="color:inherit;text-decoration:underline;">TikTok Content Performance & Growth Analytics</a></b></p>
+  <i>Oct. 2025 to Dec. 2025</i>
+</div>
+<ul>
+  <li>Engineered a reproducible Python pipeline using <b>kagglehub</b> and <b>Pandas</b> to ingest and normalize 480 high-virality short-form video records, implementing automated type coercion and null filtering for robust data consistency.</li>
+  <li>Derived engagement metrics (like_count = views × engagement_rate) and analyzed heavy-tailed distributions, identifying a strong but <b>sub-linear scaling relationship</b> between reach and interaction.</li>
+  <li>Visualized virality dynamics using <b>log–log scatter plots</b> and <b>correlation heatmaps</b>, validating a ~7% average engagement rate and uncovering non-proportional engagement growth at scale.</li>
+</ul>
 
 <div style='display: flex; justify-content: space-between;'>
 	<p style='font-size:20px; margin:0px'><b><a href="https://github.com/jocelynnnwj/yelp-recommendation-optimization" target="_blank" style="color:inherit;text-decoration:underline;">Yelp Recommendation System Optimization - DSCI 553</a></b></p>
